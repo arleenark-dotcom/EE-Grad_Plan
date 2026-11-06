@@ -1,7 +1,7 @@
 # EE-Grad_Plan
 
 ## Table of Contents
-- purpose
+- Purpose
 - Courses & Electives
 - Major Electives
 - Learning EE Tools
