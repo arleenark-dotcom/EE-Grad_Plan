@@ -1,19 +1,19 @@
 # EE-Grad_Plan
 
 ## Table of Contents
-- Purpose
-- Courses & Electives
-- Major Electives
-- Learning EE Tools
-- Extracurriculat Experience
-- Undergrad research
-- Projects
-- Technical Expereince
-- Finding Internships
-- Strategies for Success
-- Resume Tailoring
-- Networking
-- References
+- [Purpose](#purpose)
+- [Courses & Electives](#courses--electives)
+  - [Major Electives](#major-electives)
+  - [Learning EE Tools](#learning-ee-tools)
+- [Extracurricular Experience](#extracurricular-experience)
+  - [Undergrad Research](#undergrad-research)
+  - [Projects](#projects)
+- [Technical Experience](#technical-experience)
+  - [Finding Internships](#finding-internships)
+- [Strategies for Success](#strategies-for-success)
+  - [Resume Tailoring](#resume-tailoring)
+  - [Networking](#networking)
+- [References](#references)
 
 ## Purpose: 
 Choices you make as an undergraduate student impact your opportunities and outcomes in career post-graduation. This document compiles best practices for UW Bothell students who want to increase their technical/professional toolset before graduation.
