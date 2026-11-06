@@ -50,7 +50,10 @@ Getting an internship related to the job field you want to go into post-grad, is
 ### Resume Tailoring 
 It's very important to tailor your resume to sell you as an applicant as best as possible. When applying in a harsh/competitive job field, it's important to stand out. Some strategies you can use are matching the keywords in the job posting, putting your most relevant projects first, and using numbers to show results where you can.
 
+<img width="1800" height="1200" alt="Card Figure 1 6x4 (1)" src="https://github.com/user-attachments/assets/92a1c4cb-aca9-4208-8ab2-475b355c5666" />
+
 ### Networking 
 Gaining connections in the industry is a great way to learn more about the industry, and to get an edge when applying for jobs. Reach out to UW Bothell alumni and people in your clubs on LinkedIn, and ask them questions about their work, what they do day-to-day, and how they got their job. 
 
 ## References: 
+[^1]: Office of Connected Learning, "Research & Creative Projects for Undergrads," *University of Washington Bothell*, 2026. [Online]. Available: https://www.uwb.edu/connected-learning/undergraduate-research
