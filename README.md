@@ -1,4 +1,13 @@
-# EE-Grad_Plan
+# Graduation Plan for upcoming electrical engineer! 
+
+<p align="center"> 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/610f2e09-cfff-40ce-9fff-99172abe905c" />
+</sub>
+</p>
+
+Prepared for: Husky student who is aiming for a job as an electrical engineer post grad
+Prepared by: Arleen Kaur
+Date: November 23, 2026
 
 ## Table of Contents
 - [Purpose](#purpose)
