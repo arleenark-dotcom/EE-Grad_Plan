@@ -2,6 +2,7 @@
 
 <p align="center"> 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/610f2e09-cfff-40ce-9fff-99172abe905c" />
+<sub>© Image from <UW Bothell Website>, "<Mark Stone/University of Washington>"
 </sub>
 </p>
 
