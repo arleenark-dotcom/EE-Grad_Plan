@@ -73,8 +73,6 @@ Electrical engineering is a competitive job field, so your resume has to sell yo
 
 Tailor your resume to each job you apply to. Put your most relevant projects first, and use numbers to show results where you can.
 
-<img width="1800" height="1200" alt="Card Figure 1 6x4 (1)" src="https://github.com/user-attachments/assets/92a1c4cb-aca9-4208-8ab2-475b355c5666" />
-
 ### Networking 
 Networking puts you out there, and it can get you pretty far in the industry when you're looking for jobs. It also gives you more insight into the industry before you are in it, since each conversation with someone in the field gives you a new perspective and new contacts[^careers]. Mentors in the field can teach you about their specialization in electrical engineering, which has many disciplines, and about how they landed a job in the field.
 
