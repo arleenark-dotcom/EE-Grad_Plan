@@ -22,16 +22,16 @@ Choices you make as an undergraduate student impact your opportunities and outco
 ## Courses & Electives
 
 
-### Major Electives
+### Major electives
 Choosing electives is important as they can help narrow down what field you may want to work in post-grad. You can research a class's topics before you sign up to know what the elective course will cover, and if that is something you want to learn and add to your toolbelt. Taking electives that are related to your chosen career path can be a great way to stand out when you are applying for jobs. Check your picks with your academic advisor before registering so they fit your degree plan.
 
 
-### Learning EE tools 
+### Learning electrical engineering tools 
 The tools, such as languages or software, you learn how to use in class are important, as they will most likely show up later on in your career. It's best to keep track of the software, equipment, and languages you us in your courses so you can add those skills to your resume, or talk about those skills in an interview. 
 
 ## Extracurricular experience
 
-### Undergrad Research 
+### Undergrad research 
 Undergraduate research is a great way to work with professional staff to get hands-on experience in project-based environments. You can email professors whose work lines up with your interests and ask about their research. Research also gives you mentors who can write recommendation letters for you later on if you have a good relationship with them. 
 
 
@@ -45,7 +45,7 @@ Completing personal projects gets you experience at your own pace. It's also a g
 Getting an internship related to the job field you want to go into post-grad, is a great way to gain both professional and technical skills. Since you are interning in a professional environment, you will learn how to navigate those settings. Technical internships are also great gateways to build upon the fundamentals that you learn in your coursework. Start searching early on sites like LinkedIn and Husky Handshake. Use resources, such as Career Services, to find out the application seasons for internships. Apply to a lot of internships, because rejections are normal due to high numbers of applicants. 
 
 
-## Stratageis for Success 
+## Strategies for Success 
 
 ### Resume Tailoring 
 It's very important to tailor your resume to sell you as an applicant as best as possible. When applying in a harsh/competitive job field, it's important to stand out. Some strategies you can use are matching the keywords in the job posting, putting your most relevant projects first, and using numbers to show results where you can.
