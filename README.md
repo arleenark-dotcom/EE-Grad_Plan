@@ -11,6 +11,8 @@ Prepared for: Husky student who is aiming for a job as an electrical engineer po
 Prepared by: Arleen Kaur
 Date: November 23, 2026
 
+ - - - 
+
 ## Table of Contents
 - [Purpose](#purpose)
 - [Courses & Electives](#courses--electives)
@@ -27,43 +29,59 @@ Date: November 23, 2026
 - [References](#references)
 
 ## Purpose 
-Choices you make as an undergraduate student impact your opportunities and outcomes in career post-graduation. This document compiles best practices for UW Bothell students who want to increase their technical/professional toolset before graduation.
+Choices you make as an undergraduate student impact your opportunities and outcomes as an electrical engineer after graduation. When you start applying for full-time positions, you want the best toolset from university, one that makes you confident in your skills and helps you in the field. Building that toolset takes work outside of your coursework. Your required coursework teaches you the fundamentals for your field, but much of the experience companies want from new hires can only come from building your skills outside of courses. The purpose of this plan is to give you the best practices to increase your technical and professional toolset before graduation.
 
 
 ## Planning Courses & Electives
 
 
 ### Major electives
-Choosing electives is important as they can help narrow down what field you may want to work in post-grad. You can research a class's topics before you sign up to know what the elective course will cover, and if that is something you want to learn and add to your toolbelt. Taking electives that are related to your chosen career path can be a great way to stand out when you are applying for jobs. Check your picks with your academic advisor before registering so they fit your degree plan.
+At UW Bothell, electives for EE get you started in different disciplines and fields within electrical engineering, which gets you started on a specialization. Even if not all engineering students have a specialization, having some knowledge in specific EE fields sticks out to employers, because it shows that you dug deeper into engineering to learn more about specific parts of electrical engineering.
+
+Research a class's topics before you sign up to know what the elective course covers. You can email UW professors to ask when certain electives are taught, and check your picks with your academic advisor before registering so they fit your degree plan.
 
 
 ### Learning electrical engineering tools 
-The tools, such as languages or software, you learn how to use in class are important, as they will most likely show up later on in your career. It's best to keep track of the software, equipment, and languages you us in your courses so you can add those skills to your resume, or talk about those skills in an interview. 
+A lot of tools and software for EE show up in the field once you are looking for jobs. Certain job descriptions are specific about what tools they want EE majors to already have on hand, and a lot of these tools are taught in your classes.
+
+Keep track of the software, equipment, and languages you use in your courses so you can add those skills to your resume or talk about them in an interview. Continue building on these tools by going beyond the required coursework, like in a personal project, so you can confidently apply those skills later on.
 
 ## Gaining Extracurricular Experience
 
 ### Undergrad research 
-Undergraduate research is a great way to work with professional staff to get hands-on experience in project-based environments. You can email professors whose work lines up with your interests and ask about their research. Research also gives you mentors who can write recommendation letters for you later on if you have a good relationship with them. 
+A lot of jobs want hands-on experience, and they want you to be skilled with working in professional teams. Undergraduate research earns you professional experience in both soft skills and technical skills, working with UWB staff in project-based environments[^1]. Research also gives you mentors who can write recommendation letters for you later on if you have a good relationship with them.
+
+Learn about the research happening at UW Bothell, and reach out to professors whose work lines up with your interests to learn more about their research. Most undergraduate research opportunities have a formal interview or application process, so when you apply, make sure you know a little bit about the project so that you get selected for it.
 
 
 ### Projects 
-Completing personal projects gets you experience at your own pace. It's also a great way to learn new tools and skills, as you don't have a grade or deadline hanging over you. Pick a small project that builds a skill you want, and document it with photos and a short write-up so you have documentation of your project. 
+Projects look really good on a resume because they show extracurricular experience, and if they're documented well, they show interest and enthusiasm for the work and highlight specific technical skills. Personal projects also earn you hands-on experience on your own time, without having to worry about deadlines, even if you're working around a tough schedule. This gives you more room to explore and make mistakes.
 
-### 2nd paragraph 
+Pick a small project that builds a skill you want, and document it with photos and a short write-up. To find project ideas, research online, reach out to peers, and use your network to learn about what kind of projects you can do.
+
 
 ### Finding internships
-Getting an internship related to the job field you want to go into post-grad, is a great way to gain both professional and technical skills. Since you are interning in a professional environment, you will learn how to navigate those settings. Technical internships are also great gateways to build upon the fundamentals that you learn in your coursework. Start searching early on sites like LinkedIn and Husky Handshake. Use resources, such as Career Services, to find out the application seasons for internships. Apply to a lot of internships, because rejections are normal due to high numbers of applicants. 
+Full-time jobs really prioritize applicants who have prior industry experience. Most of the time, this ends up being internship experience, because internships are specifically for students who are still learning and growing as upcoming engineers, and they let you work in industry. Since you are interning in a professional environment, you learn how to navigate those settings while building upon the fundamentals you learn in your coursework.
+
+Start searching early on LinkedIn and Husky Handshake. Use Career Services to find out the application seasons for internships, and apply to a lot of internships, because rejections are normal due to high numbers of applicants.
 
 
 ## Strategizing for Success 
 
 ### Resume Tailoring 
-It's very important to tailor your resume to sell you as an applicant as best as possible. When applying in a harsh/competitive job field, it's important to stand out. Some strategies you can use are matching the keywords in the job posting, putting your most relevant projects first, and using numbers to show results where you can.
+Electrical engineering is a competitive job field, so your resume has to sell you as an applicant as best as possible. Companies are intentional with the keywords they use in their job postings, so tailoring your resume to include those keywords, for skills you actually have, helps you stand out.
+
+Tailor your resume to each job you apply to. Put your most relevant projects first, and use numbers to show results where you can.
 
 <img width="1800" height="1200" alt="Card Figure 1 6x4 (1)" src="https://github.com/user-attachments/assets/92a1c4cb-aca9-4208-8ab2-475b355c5666" />
 
 ### Networking 
-Gaining connections in the industry is a great way to learn more about the industry, and to get an edge when applying for jobs. Reach out to UW Bothell alumni and people in your clubs on LinkedIn, and ask them questions about their work, what they do day-to-day, and how they got their job. 
+Networking puts you out there, and it can get you pretty far in the industry when you're looking for jobs. It also gives you more insight into the industry before you are in it, since each conversation with someone in the field gives you a new perspective and new contacts[^careers]. Mentors in the field can teach you about their specialization in electrical engineering, which has many disciplines, and about how they landed a job in the field.
+
+Use resources available to UW Bothell students to reach out to alumni and upperclassmen from UWB clubs on LinkedIn and Handshake. To create a good connection, always send a note with your initial outreach.
+
 
 ## References 
-[^1]: Office of Connected Learning, "Research & Creative Projects for Undergrads," *University of Washington Bothell*, 2026. [Online]. Available: https://www.uwb.edu/connected-learning/undergraduate-research
+[^research]: Office of Connected Learning, "Research & creative projects for undergrads", *University of Washington Bothell*, n.d. [Online]. Available: https://www.uwb.edu/connected-learning/undergraduate-research. [Accessed Nov. 24, 2026].
+
+[^careers]: UW Bothell Career Services, "Career conversations", *University of Washington Bothell*, n.d. [Online]. Available: https://www.uwb.edu/career-services/resources/networking/career-conversations. [Accessed Nov. 24, 2026].
