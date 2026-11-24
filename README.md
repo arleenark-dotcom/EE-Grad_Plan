@@ -80,6 +80,9 @@ Networking puts you out there, and it can get you pretty far in the industry whe
 
 Use resources available to UW Bothell students to reach out to alumni and upperclassmen from UWB clubs on LinkedIn and Handshake. To create a good connection, always send a note with your initial outreach.
 
+## Figure 1: Four-year timeline for applying best practices
+<img width="1800" height="1200" alt="Card Figure 1 6x4" src="https://github.com/user-attachments/assets/2cba556b-0546-4e5c-91f4-45d5363a32bd" />
+
 
 ## References 
 [^research]: Office of Connected Learning, "Research & creative projects for undergrads", *University of Washington Bothell*, n.d. [Online]. Available: https://www.uwb.edu/connected-learning/undergraduate-research. [Accessed Nov. 24, 2026].
